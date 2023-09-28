@@ -1,0 +1,15 @@
+/workspaces/ocs35-y86-assembler/bin/Debug/net7.0/ocs35-y86-assembler
+/workspaces/ocs35-y86-assembler/bin/Debug/net7.0/ocs35-y86-assembler.deps.json
+/workspaces/ocs35-y86-assembler/bin/Debug/net7.0/ocs35-y86-assembler.runtimeconfig.json
+/workspaces/ocs35-y86-assembler/bin/Debug/net7.0/ocs35-y86-assembler.dll
+/workspaces/ocs35-y86-assembler/bin/Debug/net7.0/ocs35-y86-assembler.pdb
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.csproj.AssemblyReference.cache
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.AssemblyInfoInputs.cache
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.AssemblyInfo.cs
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.csproj.CoreCompileInputs.cache
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.dll
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/refint/ocs35-y86-assembler.dll
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.pdb
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ocs35-y86-assembler.genruntimeconfig.cache
+/workspaces/ocs35-y86-assembler/obj/Debug/net7.0/ref/ocs35-y86-assembler.dll
